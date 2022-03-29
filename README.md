@@ -1,0 +1,1 @@
+Python script that can be used as a english dictionary. The material is being scraped from "longman.com".
